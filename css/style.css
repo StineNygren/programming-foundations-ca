@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+div {
+  display: flex;
+  justify-content: center;
+}
+
+#image1 {
+  width: 500px;
+  object-fit: cover;
+  height: 500px;
+}
